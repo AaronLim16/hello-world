@@ -1,7 +1,8 @@
 # hello-world
-Repository example to check out the GitHub tutorial online
+Repository example to try out the GitHub tutorial online.
 
-Hello, I am writing some text in this place here.
+Hello, I am writing some text here.
 ---> Maybe even over two or three lines.
+---> Some more edits.
 
-Deleted the previous line as well as add/delete random words.
+Adjusted the previous line as well as added/deleted random words here and there.
