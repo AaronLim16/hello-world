@@ -1,6 +1,7 @@
 # hello-world
-Repository example for the online GitHub tutorial
+Repository example to check out the GitHub tutorial online
 
-Hello, I am writing a bit of text here.
----> Maybe even across two lines.
----> Or three.
+Hello, I am writing some text in this place here.
+---> Maybe even over two or three lines.
+
+Deleted the previous line as well as add/delete random words.
